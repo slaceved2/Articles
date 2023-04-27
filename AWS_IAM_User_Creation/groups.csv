@@ -1,0 +1,6 @@
+group,policy
+CloudAdmin,AdministratorAccess
+DBA,AmazonRDSFullAccess
+LinuxAdmin,AmazonEC2FullAccess
+NetworkAdmin,AmazonVPCFullAccess
+Trainees,ReadOnlyAccess
