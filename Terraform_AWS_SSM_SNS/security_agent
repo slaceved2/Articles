@@ -1,7 +1,6 @@
 #!/bin/bash
 # Security Agent Simulation
 
-
 if [[ $1 != "status" ]]
 then
     echo "Invalid syntax."
